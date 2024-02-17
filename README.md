@@ -1,9 +1,9 @@
-# Cloud-Computing
 <h1 align="center">Cloud-Coputing.</h1>
 
-As part of my learning experience at TKH, I designed and implemented a Cybersecurity Home Lab to demonstrate my knowledge and technical skills. I used Linux Terminal Operations, Networking Fundamentals, and Cybersecurity Concepts and Tools to set up a secure home network. 
++The cloud Computing is one of the main technologies that are being using in today’ most industries and Business.
++ It is   the web-based servers and software that can be accessed and used online. 
++ Customers  can use these systems from any location that has internet access.
 
-In this Project I had learned how to create a cybersecurity home-lab from scratch. I used Gliffy to create a network diagram that showed the topology and configuration of my security home lab. Also, I use VirtualBox to run Ubuntu desktop as your host machine and install pfSense as a firewall to protect your network simulations.I used configure Snort as an intrusion detection system and use Splunk as a security information and event management (SIEM) tool, use Metasploitable2 as target/victim Virtual machine. Finally,I had set up Kali Linux as an attacker machine to perform various penetration testing scenarios.
 
 
 ###
