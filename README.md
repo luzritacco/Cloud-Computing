@@ -26,7 +26,7 @@ The customers don’t have to buying, managing, and maintaining their own IT inf
  **Hybrid cloud computing**
  A hybrid cloud can offer the benefits of scalability, cost-efficiency, and flexibility of public clouds
 Also maintaining the security, control, and performance of private clouds.
-
+#
 ![Screenshot 2024-02-17 032128](https://github.com/luzritacco/Cloud-Computing/assets/151267325/41566cc4-43fa-4644-8aa3-4adee1ed48eb)
 
 #### Here's a fragment of my detail- paper:
