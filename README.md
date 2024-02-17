@@ -8,11 +8,22 @@ Cloud computing is the delivery of computing services over the internet, such as
 
 
 ###
-<h3 align="center">Documentation of the Home-lab
+<h3 align="center">The three main types of cloud distribution 
+                                models 
+
 
  
  ##
- My paper provides a comprehensive overview of the tools and services that I use in my security home lab. I describe the functionality, purpose, and relevance of each tool and service in the context of the security industry.I also demonstrate how I can apply them to real world scenarios and challenges that security professionals face. My paper intends to showcase my skills and knowledge in security testing, analysis, and research.
+Private cloud computing
+It is use or designed to a single organization
+Advantage enhanced security, control, and customization
+Disadvantage is that requires more resources to management and maintain.
+ Public cloud computing
+Is accessible  and affordable over open internet
+The customers don’t have to buying, managing, and maintaining their own IT infrastructure.
+ Hybrid cloud computing
+ A hybrid cloud can offer the benefits of scalability, cost-efficiency, and flexibility of public clouds
+Also maintaining the security, control, and performance of private clouds.
 
 #### Here's a fragment of my detail- paper:
 ##
