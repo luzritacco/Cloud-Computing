@@ -39,7 +39,8 @@ Also maintaining the security, control, and performance of private clouds.
   
 ##
 
-
+- **Infrastructure as a service (IaaS):** This layer provides the basic computing resources, such as servers, storage, networks, and operating systems, that can be rented on demand from a cloud provider.
+- **Platform as a service (PaaS):** This layer provides a development environment and tools for building and deploying cloud-based applications, without having to manage the underlying infrastructure.
 
 
 ##
