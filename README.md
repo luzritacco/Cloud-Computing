@@ -7,11 +7,11 @@ Cloud computing is the delivery of computing services over the internet, such as
 
 
 
-##
+#
 <h1 align="center">The three main types of cloud distribution 
                                 models 
  
- ##
+ #
 **Private cloud computing**
 It is use or designed to a single organization
 Advantage enhanced security, control, and customization
@@ -32,12 +32,12 @@ Also maintaining the security, control, and performance of private clouds.
 
 
 
-##
+#
 <h1 align="center">Types of cloud services
 
 
   
-##
+#
 
 - **Infrastructure as a service (IaaS):** This layer provides the basic computing resources, such as servers, storage, networks, and operating systems, that can be rented on demand from a cloud provider.
 - **Platform as a service (PaaS):** This layer provides a development environment and tools for building and deploying cloud-based applications, without having to manage the underlying infrastructure.
@@ -47,11 +47,11 @@ Also maintaining the security, control, and performance of private clouds.
 ![Screenshot 2024-02-17 033740](https://github.com/luzritacco/Cloud-Computing/assets/151267325/43548b30-e380-4859-8c40-3b3b4810072b)
 
 
-##
+#
 <h1 align="center"> Benefits of the cloud computing
 
  
- ##
+ #
  With cloud computing, business/ companies can cut costs, increase flexibility, and enhance productivity of any business.
 Companies/business can avoid the hassle and expense of maintaining physical IT infrastructure and focus on your core business goals.
  Cloud services also enable any employees to work more effectively from anywhere, whether they’re in the office, at home, or on the go.
@@ -60,18 +60,18 @@ Companies/business can avoid the hassle and expense of maintaining physical IT i
 
 
 
-##
+#
 <h1 align="center"> Amazon Web Services (AWS)
 
 
- ##
+ #
 + AWS is a leading provider of cloud computing services that enable users to access various resources over the public internet
 + AWS is a secure cloud platform, offering computer power, database, content delivery and other services to help business scale and grow.
 
-##
+#
 <h1 align="center"> AWS offers three main products
 
-  ##
+  #
   
 - **Amazon Elastic Compute Cloud EC2**,which provides scalable virtual servers on demand in the Amazon Web Services Cloud.
 
@@ -81,7 +81,7 @@ Companies/business can avoid the hassle and expense of maintaining physical IT i
 
 ![Screenshot 2024-02-17 035015](https://github.com/luzritacco/Cloud-Computing/assets/151267325/55bbed11-eaa7-49ca-913c-fd95c809fd66)
 
-##
+#
 <h1 align="center"> Under Construction ........
 
 
