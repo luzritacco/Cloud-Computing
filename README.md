@@ -44,7 +44,8 @@ Also maintaining the security, control, and performance of private clouds.
 - **Software as a service (SaaS):** This layer provides ready-to-use applications that run on the cloud, such as email, productivity, collaboration, and CRM software, that can be accessed through a web browser or a mobile app.
 - **Function as a service (FaaS):** This layer provides a way to execute small pieces of code, called functions, in response to events or triggers, without having to provision or manage any servers or containers.
 
-![Screenshot 2024-02-17 033629](https://github.com/luzritacco/Cloud-Computing/assets/151267325/483e2559-9943-43f5-82f6-1a2391f85902)
+![Screenshot 2024-02-17 033740](https://github.com/luzritacco/Cloud-Computing/assets/151267325/43548b30-e380-4859-8c40-3b3b4810072b)
+
 
 ##
 <h3 align="center"> Here's the network diagram -layout- topology of my cybersecurity Home-lab setup:
