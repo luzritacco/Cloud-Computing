@@ -11,7 +11,7 @@ Cloud computing is the delivery of computing services over the internet, such as
 <h1 align="center">The three main types of cloud distribution 
                                 models 
  
- #
+ 
 **Private cloud computing**
 It is use or designed to a single organization
 Advantage enhanced security, control, and customization
