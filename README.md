@@ -8,7 +8,7 @@ Cloud computing is the delivery of computing services over the internet, such as
 
 
 ###
-<h3 align="center">The three main types of cloud distribution 
+<h1 align="center">The three main types of cloud distribution 
                                 models 
  
  ##
