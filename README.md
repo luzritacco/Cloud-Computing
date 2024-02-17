@@ -33,7 +33,7 @@ Also maintaining the security, control, and performance of private clouds.
 
 
 ####
-<h3 align="center">Types of cloud services
+<h1 align="center">Types of cloud services
 
 
   
@@ -48,7 +48,7 @@ Also maintaining the security, control, and performance of private clouds.
 
 
 ##
-<h3 align="center"> Benefits of the cloud computing
+<h1 align="center"> Benefits of the cloud computing
 
  
  ##
@@ -61,7 +61,7 @@ Companies/business can avoid the hassle and expense of maintaining physical IT i
 
 
 ##
-<h3 align="center"> Amazon Web Services (AWS)
+<h1 align="center"> Amazon Web Services (AWS)
 
 
  ##
@@ -69,7 +69,7 @@ Companies/business can avoid the hassle and expense of maintaining physical IT i
 + AWS is a secure cloud platform, offering computer power, database, content delivery and other services to help business scale and grow.
 
 ##
-<h3 align="center"> AWS offers three main products
+<h1 align="center"> AWS offers three main products
 
   ##
   
@@ -80,6 +80,10 @@ Companies/business can avoid the hassle and expense of maintaining physical IT i
 - **Amazon S3**, which delivers durable and highly available object storage.
 
 ![Screenshot 2024-02-17 035015](https://github.com/luzritacco/Cloud-Computing/assets/151267325/55bbed11-eaa7-49ca-913c-fd95c809fd66)
+
+##
+<h1 align="center"> Under Construction ........
+
 
 
 
