@@ -12,16 +12,16 @@ Cloud computing is the delivery of computing services over the internet, such as
                                 models 
  
   # 
-**Private cloud computing**
+- **Private cloud computing**
 It is use or designed to a single organization
 Advantage enhanced security, control, and customization
 Disadvantage is that requires more resources to management and maintain.
 
-**Public cloud computing**
+- **Public cloud computing**
 Is accessible  and affordable over open internet
 The customers don’t have to buying, managing, and maintaining their own IT infrastructure.
 
- **Hybrid cloud computing**
+ - **Hybrid cloud computing**
  A hybrid cloud can offer the benefits of scalability, cost-efficiency, and flexibility of public clouds
 Also maintaining the security, control, and performance of private clouds.
 
