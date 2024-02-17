@@ -27,7 +27,7 @@ Also maintaining the security, control, and performance of private clouds.
 
 
 #
-<p align="center"><![Screenshot 2024-02-17 033955](https://github.com/luzritacco/Cloud-Computing/assets/151267325/ab1d4591-c05a-434d-b1f8-b8c21f08bf07)/></p>
+![Screenshot 2024-02-17 033955](https://github.com/luzritacco/Cloud-Computing/assets/151267325/ab1d4591-c05a-434d-b1f8-b8c21f08bf07)
 
 
 
