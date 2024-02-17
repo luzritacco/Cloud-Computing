@@ -1,6 +1,6 @@
-<h1 align="center">Cloud-Coputing.</h1>
+<h1 align="center">Cloud-Computing.</h1>
 
-+The cloud Computing is one of the main technologies that are being using in today’ most industries and Business.
++ The cloud Computing is one of the main technologies that are being using in today’ most industries and Business.
 + It is   the web-based servers and software that can be accessed and used online. 
 + Customers  can use these systems from any location that has internet access.
 
