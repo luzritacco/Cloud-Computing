@@ -7,7 +7,7 @@ Cloud computing is the delivery of computing services over the internet, such as
 
 
 
-###
+##
 <h1 align="center">The three main types of cloud distribution 
                                 models 
  
@@ -32,7 +32,7 @@ Also maintaining the security, control, and performance of private clouds.
 
 
 
-####
+##
 <h1 align="center">Types of cloud services
 
 
