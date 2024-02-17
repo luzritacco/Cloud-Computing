@@ -10,8 +10,6 @@ Cloud computing is the delivery of computing services over the internet, such as
 ###
 <h3 align="center">The three main types of cloud distribution 
                                 models 
-
-
  
  ##
 **Private cloud computing**
@@ -29,10 +27,10 @@ Also maintaining the security, control, and performance of private clouds.
 #
 ![Screenshot 2024-02-17 032128](https://github.com/luzritacco/Cloud-Computing/assets/151267325/41566cc4-43fa-4644-8aa3-4adee1ed48eb)
 
-#### Here's a fragment of my detail- paper:
+#### HTypes of cloud services
 ##
 
-![Screenshot 2024-02-14 005729](https://github.com/luzritacco/Cybersecurity-Home-Lab/assets/151267325/011388ef-0c84-47f1-a19e-cddeee69a776)
+
 
 
 ##
