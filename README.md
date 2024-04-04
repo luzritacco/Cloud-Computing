@@ -8,9 +8,7 @@ Cloud computing is the delivery of computing services over the internet, such as
 
 
 #
-<h1 align="center">The three main types of cloud distribution 
-                                models 
- #
+<h1 align="center">The three main types of cloud distribution models </h1>
 
 - **Private cloud computing**
 It is use or designed to a single organization
@@ -26,18 +24,15 @@ The customers don’t have to buying, managing, and maintaining their own IT inf
 Also maintaining the security, control, and performance of private clouds.
 
 
-#
  <p align="center">
     <img src="https://github.com/luzritacco/Cloud-Computing/assets/151267325/ab1d4591-c05a-434d-b1f8-b8c21f08bf07=true" alt="Sublime's custom image" />
 </p>
 
   
 #
-<h1 align="center">Types of cloud services
+<h1 align="center">Types of cloud services</h1>
 
 
-  
-#
 
 - **Infrastructure as a service (IaaS):** This layer provides the basic computing resources, such as servers, storage, networks, and operating systems, that can be rented on demand from a cloud provider.
 - **Platform as a service (PaaS):** This layer provides a development environment and tools for building and deploying cloud-based applications, without having to manage the underlying infrastructure.
@@ -49,10 +44,8 @@ Also maintaining the security, control, and performance of private clouds.
 </p>
 
 #
-<h1 align="center"> Benefits of the cloud computing
+<h1 align="center"> Benefits of the cloud computing</h1>
 
- 
- #
  With cloud computing, business/ companies can cut costs, increase flexibility, and enhance productivity of any business.
 Companies/business can avoid the hassle and expense of maintaining physical IT infrastructure and focus on your core business goals.
  Cloud services also enable any employees to work more effectively from anywhere, whether they’re in the office, at home, or on the go.
@@ -61,18 +54,13 @@ Companies/business can avoid the hassle and expense of maintaining physical IT i
     <img src="https://github.com/luzritacco/Cloud-Computing/assets/151267325/eb9aac51-b5b4-4f05-b7ab-9cfc6ffdabb6=true" alt="Sublime's custom image" />
 </p>
 
-<h1 align="center"> Amazon Web Services (AWS)
+<h1 align="center"> Amazon Web Services (AWS)</h1>
 
-
- #
 + AWS is a leading provider of cloud computing services that enable users to access various resources over the public internet
 + AWS is a secure cloud platform, offering computer power, database, content delivery and other services to help business scale and grow.
 
 #
-<h1 align="center"> AWS offers three main products
-  
-  
-  #
+<h1 align="center"> AWS offers three main products</h1>
 
 - **Amazon Elastic Compute Cloud EC2**,which provides scalable virtual servers on demand in the Amazon Web Services Cloud.
 
@@ -86,10 +74,8 @@ Companies/business can avoid the hassle and expense of maintaining physical IT i
 </p>
 
 
+<h1 align="center"> AWS Advantages</h1>
 
-<h1 align="center"> AWS Advantages
-  
-#
 - **Cost Effective:** With AWS, the business only pays for the compute resources they use when someone visits their website. This can result in significant cost savings.
 
 <p align="center">
