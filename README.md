@@ -102,8 +102,9 @@ Businesses are able to customize their virtual environment – whether the opera
  <p align="center">
     <img src="https://github.com/luzritacco/Cloud-Computing/assets/151267325/12166ba9-ed83-4ce7-9acd-5351815e92b4=true" alt="Sublime's custom image" />
 </p> 
-  
-
+ 
+ 
+- [Cloud Compute Presentation](https://docs.google.com/presentation/d/18y4IIE0_MIOyyHhJ97W9EF9MpE6izK1khal7IoJtvlY/edit?usp=drive_link)
 
 
 
